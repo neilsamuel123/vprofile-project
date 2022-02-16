@@ -4,5 +4,5 @@ metadata:
   name: app-secret
 type: Opaque
 data:
-  db_pass: dnByb2RicGFzcw==
-  rmq_pass: Z3Vlc3Q=
+  db-pass: dnByb2RicGFzcw==
+  rmq-pass: Z3Vlc3Q=
